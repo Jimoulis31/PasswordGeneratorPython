@@ -15,9 +15,8 @@ A simple GUI password generator built with Python and Tkinter. Generate password
 
 ## Screenshot
 
-Add a screenshot to `PasswordGenerator.png` and it will appear here:
 
-![App screenshot](assets/screenshot.png)
+![App screenshot](PasswordGenerator.png)
 
 How to take and add a screenshot:
 1. Run the app (see Usage below).
